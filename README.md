@@ -5,6 +5,6 @@ Files related to challenge:
    - Weather_Database.ipynb
    - Vacation_Search.ipynb
    - Vacation_Itinerary.ipynb
-    -Weather_Data.csv
-    -WeatherPy_vacation.csv
-    -The three .png files
+   - Weather_Data.csv
+   - WeatherPy_vacation.csv
+   - The three .png files
